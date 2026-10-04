@@ -1,0 +1,19 @@
+# Environment
+.env
+
+# Dependencies
+/vendor/
+
+# Real data dumps / uploads (only the sample CSV and schema/seed are tracked)
+/dumps/
+/storage/uploads/
+*.dump.sql
+*.real.sql
+*.real.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log

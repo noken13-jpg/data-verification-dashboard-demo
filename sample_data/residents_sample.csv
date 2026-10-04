@@ -1,0 +1,8 @@
+nik,full_name,address,category
+9999999999999004,Warga Contoh 004,Jl. Contoh No. 4 Kota Contoh,Category A
+9999999999999005,Warga Contoh 005,Jl. Contoh No. 5 Kota Contoh,Category B
+9999999999999006,Warga Contoh 006,Jl. Contoh No. 6 Kota Contoh,Category A
+9999999999999002,Warga Contoh 002,Jl. Contoh No. 2 Kota Contoh,Category B
+9999999999999004,Warga Contoh 004 Duplicate,Jl. Contoh No. 4 Kota Contoh,Category A
+123,Invalid NIK Row,Jl. Contoh No. 9 Kota Contoh,Category C
+9999999999999007,,Jl. Contoh No. 7 Kota Contoh,Category A
